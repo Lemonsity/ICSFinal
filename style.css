@@ -146,7 +146,7 @@ div#lessons .grid {
 	margin: 0;
 }
 
-.grid > .grid-item {
+.grid .grid-item {
 	display: inline-block;
 	position: relative;
 	margin: 8px;
