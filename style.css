@@ -115,7 +115,8 @@ div#installing {
 	padding: 128px 30vw;
 }
 
-div#installing a {
+div#installing a,
+div#contact a {
 	color: #363636;
 }
 
@@ -208,4 +209,8 @@ div#lessons .grid {
 
 .grid-item:hover .download {
 	bottom: 36px;
+}
+
+div#contact {
+	padding: 128px 30vw;
 }
